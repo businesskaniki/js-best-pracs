@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 import Store from './store.js';
 import checkchange from './change.js';
 
