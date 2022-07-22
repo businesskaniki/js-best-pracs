@@ -66,13 +66,12 @@ li {
   justify-content: space-between;
   align-items: center;
   padding: 0.5rem;
-  gap: 0.4rem;
   border: 1px solid gray;
   border-radius: 3px;
   gap: 3px;
 }
 
-.todo-item:hover{
+.todo-item:hover {
   background-color: orange;
 }
 
@@ -136,5 +135,4 @@ input[type='text']:focus {
   border: none;
   outline: none;
   background-color: orange;
-  outline: none;
 }

@@ -1,8 +1,3 @@
-
-
-
-
-
 export default class Store {
   static getData = () => JSON.parse(localStorage.getItem('taskitems'));
 
